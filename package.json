@@ -1,0 +1,32 @@
+{
+    "name": "com.peerio.cordova.plugin.carrier",
+    "version": "1.0.0",
+    "description": "Cordova Carrier Plugin",
+    "cordova": {
+        "id": "com.peerio.cordova.plugin.carrier",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PeerioTechnologies/peerio-cordova-carrier"
+    },
+    "keywords": [
+        "cordova",
+        "peerio",
+        "carrier",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ],
+    "author": "Apache Software Foundation",
+    "contributors": [
+        {
+            "name": "Samvel Avanesov",
+            "email": "seavan@gmail.com"
+        }
+    ],
+    "license": "Apache-2.0"
+}
