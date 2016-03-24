@@ -1,6 +1,6 @@
 {
     "name": "com.peerio.cordova.plugin.carrier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Cordova Carrier Plugin",
     "cordova": {
         "id": "com.peerio.cordova.plugin.carrier",
