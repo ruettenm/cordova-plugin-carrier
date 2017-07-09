@@ -1,5 +1,9 @@
 # cordova-plugin-carrier #
 
+## Authors ##
+
+This plugin was forked from https://github.com/dtmtec/cordova-plugin-carrier
+
 ## What is it? ##
 
 cordova-plugin-carrier is a cordova plugin to get the device's carrier name, mcc, mnc and country code. The information comes from the device's SIM card.
