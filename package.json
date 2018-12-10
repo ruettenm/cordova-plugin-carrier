@@ -1,9 +1,9 @@
 {
-    "name": "com.peerio.cordova.plugin.carrier",
-    "version": "1.0.4",
+    "name": "cordova-plugin-carrier",
+    "version": "1.0.0",
     "description": "Cordova Carrier Plugin",
     "cordova": {
-        "id": "com.peerio.cordova.plugin.carrier",
+        "id": "cordova-plugin-carrier",
         "platforms": [
             "android",
             "ios"
@@ -16,11 +16,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/PeerioTechnologies/peerio-cordova-carrier"
+        "url": "https://github.com/ruettenm/cordova-plugin-carrier"
     },
     "keywords": [
         "cordova",
-        "peerio",
         "carrier",
         "ecosystem:cordova",
         "cordova-android",
@@ -28,7 +27,13 @@
     ],
     "author": "Apache Software Foundation",
     "contributors": [
-        {   "name": "Luis Vasconcellos"   },
+        {   
+            "name": "Matthias Rütten",
+            "email": "matthias.ruetten@codecentric.de"
+        },
+        {
+            "name": "Luis Vasconcellos"   
+        },
         {
             "name": "Samvel Avanesov",
             "email": "seavan@gmail.com"
